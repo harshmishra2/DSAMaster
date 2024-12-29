@@ -1,5 +1,11 @@
 class KadanesAlgo {
-    public int maxProfit(int[] prices) {
+
+    public static void main(String [] args){
+        int[] arr = {1, 3, 4, 5, 9, 3, 11, 5, 9, 55};
+        system.out.println("max profit that can be made for array " + maxProfit(arr));
+    }
+
+    public static int maxProfit(int[] prices) {
         int size = prices.length;
         int buy = 0;
         int profit = 0;
