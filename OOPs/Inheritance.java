@@ -1,3 +1,5 @@
+
+//parent class
 class Parent{
 
     public void whereAbout(){
@@ -6,7 +8,9 @@ class Parent{
     
 }
 
+//child class
 class Child extends Parent{
+
     public void haveInherited(){
         System.out.println("Yes currently inside Child class, which is inheriting from parent class.");
     }
