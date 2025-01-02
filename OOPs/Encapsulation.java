@@ -1,5 +1,6 @@
 class Employee{
 
+    //containing private data that can only be set using the set methods
     private int empId;
     private String eName;
 
