@@ -22,3 +22,7 @@ class IntToRoman {
         return sb.toString();
     }
 }
+
+
+//https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150
+//one of the fastest ways is the above mentioned way "Faang" sorta question, most of the other solutions would take away the space.
