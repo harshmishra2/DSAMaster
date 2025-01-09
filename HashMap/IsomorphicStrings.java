@@ -33,3 +33,6 @@ class IsomorphicStrings {
         System.out.println("Are these strings isomorphic? T/F: "+ isIsomorphic(s, t));
     }
 }
+
+
+//https://leetcode.com/problems/isomorphic-strings/?envType=study-plan-v2&envId=top-interview-150
