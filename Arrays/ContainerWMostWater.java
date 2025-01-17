@@ -31,4 +31,5 @@ class ContainerWMostWater {
         return area;
     }
 }
+
 //https://leetcode.com/problems/container-with-most-water/submissions/?envType=study-plan-v2&envId=top-interview-150
