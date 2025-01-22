@@ -1,3 +1,5 @@
+//This code was made referencing to "coding with john" youtube guy
+
 import java.util.Arrays;
 
 public class QuickSortArray{
