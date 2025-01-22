@@ -1,3 +1,5 @@
+//code was built using "code with john" from youtube as reference guide on the same
+
 import java.util.Random;
 
 public class MergeSort{
