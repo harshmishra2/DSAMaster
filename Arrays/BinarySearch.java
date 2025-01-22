@@ -1,3 +1,5 @@
+//This code was made referencing to "coding with john" youtube guy
+
 public class BinarySearch{
     public static void main(String args[]){
         int[] ints = {1, 2, 3, 4, 5, 6, 9, 11};
