@@ -1,4 +1,4 @@
-class AddDigits {
+class AddDigitsRecursive {
     public int addDigits(int num) {
 
         int total = 0;
