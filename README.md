@@ -131,4 +131,4 @@ Implement: Kruskal's algorithm for minimum spanning trees.
 
 Solve: Sudoku solver, N-Queens problem, generating permutations.
 
-ps: I can't love anyone, I am the worst, I hate to think about our purpose in life. But hey we can't go down like a dog I'll have a legacy.
+ps: I need to work on my consistency to upload constantly.
